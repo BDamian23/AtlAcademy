@@ -1,0 +1,25 @@
+{
+  "ubicacion": {
+    "dir": "calle principal",
+    "nro": 123,
+    "ciudad": "Villa Carlos Paz"
+  },
+  "cursos": {
+    "ingles-basico": {
+      "duracion": "4 semanas",
+      "precio": 100
+    },
+    "ingles-avanzado": {
+      "duracion": "20 semanas",
+      "precio": 400
+    },
+    "italiano-basico": {
+      "duracion": "5 semanas",
+      "precio": 120
+    }
+  },
+  "contactos": {
+    "telefono-1": "156734756",
+    "telefono-2": "154456234"
+  }
+}
