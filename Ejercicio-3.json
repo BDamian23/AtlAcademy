@@ -1,0 +1,114 @@
+{
+  "asks": [
+    {
+    "statement": "¿Cuál es la capital de Francia?",
+    "answer_options": {
+      "option-1": "París",
+      "option-2": "Berlín",
+      "option-3": "Madrid"
+    },
+    
+    "correct_answer": "París",
+    "explanation": "París, la capital de Francia, está situada en el río Sena, lo que ha seguido siendo una característica definitoria de la ciudad a lo largo de la historia."
+    },
+    
+    {
+    "statement": "¿Cuál es el río más largo del mundo?",
+    "answer_options": {
+      "option-1": "El río misisispi",
+      "option-2": "El río Nilo",
+      "option-3": "El río Ganges"
+    },
+    "correct_answer": "El río Nilo",
+    "explanation": "El río Nilo tiene 6.650 kilómetros de longitud."
+    },
+    
+    {
+    "statement": "¿Cuál es el océano más grande?",
+    "answer_options": {
+      "option-1": "El océano Pacífico",
+      "option-2": "El océano Atlántico",
+      "option-3": "El océano Índico"
+    },
+    "correct_answer": "El océano Pacífico",
+    "explanation": "El Pacífico cubre un área de 165.700.000 km2."
+    },
+    
+    {
+    "statement": "¿Quién pintó la Mona Lisa?",
+    "answer_options": {
+      "option-1": "Claude Monet",
+      "option-2": "Pablo Picasso",
+      "option-3": "Leonardo da Vinci"
+    },
+    "correct_answer": "Leonardo da Vinci",
+    "explanation": "Leonardo da Vinci pintó la Mona Lisa entre 1503 y 1519."
+    },
+    
+    {
+    "statement": " ¿Cuál es el animal terrestre más grande?",
+    "answer_options": {
+      "option-1": "El Gorila",
+      "option-2": "El elefante africano",
+      "option-3": "La ballena azul"
+    },
+    "correct_answer": "El elefante africano",
+    "explanation": "El elefante africano, es el animal más grande sobre la superficie terrestre. Pueden alcanzar una altura de hasta 4 metros de alto y su peso oscila entre los 2.200 y los 6.350 kilogramos."
+    },
+    
+    {
+    "statement": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "answer_options": {
+      "option-1": "El magnesio",
+      "option-2": "El hierro",
+      "option-3": "El aluminio"
+    },
+    "correct_answer": "El aluminio",
+    "explanation": "El aluminio es el metal más abundante en la corteza terrestre. Es dúctil y muy resistente a la corrosión."
+    },
+    
+    {
+    "statement": "¿Cuál es el planeta más cercano al Sol?",
+    "answer_options": {
+      "option-1": "Saturno",
+      "option-2": "Mercurio",
+      "option-3": "Urano"
+    },
+    "correct_answer": "Mercurio",
+    "explanation": "La distancia de Mercurio al Sol varía en un rango entre 46 000 000 y 70 000 000 de kilómetros, lo que lo convierte en el planeta mas cercano al sol."
+    },
+    
+    {
+    "statement": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "answer_options": {
+      "option-1": "Miguel de Cervantes",
+      "option-2": "Gabriel García Márquez",
+      "option-3": "Charles Dickens"
+    },
+    "correct_answer": "Miguel de Cervantes",
+    "explanation": "El Quijote es la obra más conocida de Miguel de Cervantes. Publicada su primera parte con el título de El ingenioso hidalgo don Quijote de la Mancha a comienzos de 1605"
+    },
+    
+    {
+    "statement": "¿Cuál es el país más poblado del mundo?",
+    "answer_options": {
+      "option-1": "India",
+      "option-2": "Japon",
+      "option-3": "China"
+    },
+    "correct_answer": "India",
+    "explanation": "India cuenta con un total 1.428 millones de habitantes"
+    },
+    
+    {
+    "statement": "¿Cuál es la montaña más alta del mundo?",
+    "answer_options": {
+      "option-1": "El Monte Everest",
+      "option-2": "Makalu",
+      "option-3": "Tirich Mir"
+    },
+    "correct_answer": "El Monte Everest",
+    "explanation": "El Monte Everest tiene una altura de 8848 mts y esta ubicado en Nepal-China"
+    }
+  ]
+}
